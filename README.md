@@ -20,7 +20,7 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 
 ## Instructions
 
-### Step 1: Preprocess the data
+### Step 1: Preprocess the data [StarterCode](https://github.com/davism02/Deep-Learning-Charity-Funding-Predictor/blob/main/StarterCode1.ipynb)
 
 Using your knowledge of Pandas and the Scikit-Learn’s `StandardScaler()`, you’ll need to preprocess the dataset in order to compile, train, and evaluate the neural network model later in Step 2
 
@@ -51,6 +51,7 @@ Using your knowledge of TensorFlow, you’ll design a neural network, or deep le
 10. Save and export your results to an HDF5 file, and name it `AlphabetSoupCharity.h5`.
 
 ### Step 3: Optimize the Model
+
 
 Using your knowledge of TensorFlow, optimize your model in order to achieve a target predictive accuracy higher than 75%. If you can't achieve an accuracy higher than 75%, you'll need to make at least three attempts to do so.
 
