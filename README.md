@@ -18,60 +18,11 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 * **ASK_AMT**—Funding amount requested
 * **IS_SUCCESSFUL**—Was the money used effectively
 
-## Instructions
+## Preproces Data and Generate first Model
 [StarterCode](https://github.com/davism02/Deep-Learning-Charity-Funding-Predictor/blob/main/StarterCode1.ipynb)
- to Preprocess the data  and Compile, Train, and Evaluate the Model.
-
-Optimize the Model 
-[Optimization1](https://github.com/davism02/Deep-Learning-Charity-Funding-Predictor/blob/main/Optimization1.ipynb)
-[Optimization2](https://github.com/davism02/Deep-Learning-Charity-Funding-Predictor/blob/main/Optimization2.ipynb)
-Using your knowledge of TensorFlow, optimize your model in order to achieve a target predictive accuracy higher than 75%. If you can't achieve an accuracy higher than 75%, you'll need to make at least three attempts to do so.
-
-Optimize your model in order to achieve a target predictive accuracy higher than 75% by using any or all of the following:
-
-* Adjusting the input data to ensure that there are no variables or outliers that are causing confusion in the model, such as:
-  * Dropping more or fewer columns.
-  * Creating more bins for rare occurrences in columns.
-  * Increasing or decreasing the number of values for each bin.
-* Adding more neurons to a hidden layer.
-* Adding more hidden layers.
-* Using different activation functions for the hidden layers.
-* Adding or reducing the number of epochs to the training regimen.
-
-**NOTE**: You will not lose points if your model does not achieve target performance, as long as you make three attempts at optimizing the model in your jupyter notebook.
-
-1. Create a new Jupyter Notebook file and name it `AlphabetSoupCharity_Optimzation.ipynb`.
-2. Import your dependencies, and read in the `charity_data.csv` to a Pandas DataFrame.
-3. Preprocess the dataset like you did in Step 1, taking into account any modifications to optimize the model.
-4. Design a neural network model, taking into account any modifications that will optimize the model to achieve higher than 75% accuracy.
-5. Save and export your results to an HDF5 file, and name it `AlphabetSoupCharity_Optimization.h5`.
-
-### Step 4: Write a Report on the Neural Network Model
-
-For this part of the Challenge, you’ll write a report on the performance of the deep learning model you created for AlphabetSoup.
-
-The report should contain the following:
-
-1. **Overview** of the analysis: Explain the purpose of this analysis.
-
-2. **Results**: Using bulleted lists and images to support your answers, address the following questions.
-
-  * Data Preprocessing
-    * What variable(s) are considered the target(s) for your model?
-    * What variable(s) are considered to be the features for your model?
-    * What variable(s) are neither targets nor features, and should be removed from the input data?
-  * Compiling, Training, and Evaluating the Model
-    * How many neurons, layers, and activation functions did you select for your neural network model, and why?
-    * Were you able to achieve the target model performance?
-    * What steps did you take to try and increase model performance?
-
-3. **Summary**: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
-
-- - -
-
-## Rubric
-
-[Unit 21 - Deep Learning Homework Rubric - Charity Funding Predictor](https://docs.google.com/document/d/1SLOROX0lqZwa1ms-iRbHMQr1QSsMT2k0boO9YpFBnHA/edit?usp=sharing)
-
-___
-© 2021  Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.	
+ 
+## Optimize the Model 
+# [Optimization1](https://github.com/davism02/Deep-Learning-Charity-Funding-Predictor/blob/main/Optimization1.ipynb)
+# [Optimization2](https://github.com/davism02/Deep-Learning-Charity-Funding-Predictor/blob/main/Optimization2.ipynb)
+# [Summary](hhttps://github.com/davism02/Deep-Learning-Charity-Funding-Predictor/blob/main/ANALYSIS_Report%20on%20the%20Neural%20Network%20Model.docx)
+ 
